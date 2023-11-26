@@ -1,0 +1,19 @@
+[book]
+title = "Consyn Whitepaper"
+author = "consync"
+description = "A detailed whitepaper on the Consyn project."
+
+# Define the location of your markdown files
+src = "whitepaper/consyn.md"
+
+# Define build settings
+[build]
+build-dir = "book"
+
+# Optional: set the HTML theme
+[output.html]
+theme = "theme"
+
+# Optional: add additional options for other output formats
+[output.pdf]
+# PDF output settings here
