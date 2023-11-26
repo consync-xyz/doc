@@ -15,5 +15,5 @@ build-dir = "book"
 # theme = "theme"
 
 # Optional: add additional options for other output formats
-[output.pdf]
+#[output.pdf]
 # PDF output settings here
