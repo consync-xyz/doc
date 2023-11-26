@@ -12,7 +12,7 @@ build-dir = "book"
 
 # Optional: set the HTML theme
 [output.html]
-theme = "theme"
+# theme = "theme"
 
 # Optional: add additional options for other output formats
 [output.pdf]
