@@ -1,0 +1,3 @@
+### DID and DNS
+Expanding the applications of DID and DNS with the core feature of Atomicals Protocol, the Realm Name System (RNS), we aim to extend the realm domain system. <br>
+This will involve developing a suite of infrastructure to promote the realm as a Web3 identity system based on Bitcoin, and decentralizing DNS services to innovate further the underlying layers of the current Web2 network.

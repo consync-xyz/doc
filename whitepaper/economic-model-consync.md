@@ -1,0 +1,2 @@
+## Economic Model for ConSync Ecosystem
+The ConSync ecosystem, underpinned by the Atomicals Protocol, introduces a novel economic model centered around its native ARC20 token. This model is designed to promote fairness, accessibility, and active participation within the ecosystem. The key features of this model are as follows:

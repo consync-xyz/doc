@@ -1,0 +1,3 @@
+### Introduction to Atomicals Protocol
+
+Atomicals Protocol is an advanced protocol designed to bring to life digital objects on Bitcoin and other proof-of-work blockchains. It's a groundbreaking approach to minting, transferring, and updating digital objects (akin to non-fungible tokens, NFTs) on UTXO blockchains like Bitcoin. The protocol is defined by its simplicity and flexibility, offering a new paradigm for digital ownership without the need for third-party services or indexers.

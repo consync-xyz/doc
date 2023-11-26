@@ -1,0 +1,2 @@
+### The Emergence of Atomicals Protocol within ConSync
+The introduction of the Atomicals Protocol within the ConSync project marks a watershed moment in the evolution of the Bitcoin ecosystem. Atomicals Protocol brings the concept of digital objects to life on Bitcoin and other proof-of-work blockchains, similar to non-fungible tokens (NFTs) on platforms like Ethereum.

@@ -1,0 +1,2 @@
+### BRC-20 and its Derivatives
+The creation of the experimental BRC-20 token standard by Twitter user @domodata in March 2023 was another milestone. This standard, inspired by Ordinals, introduced a new wave of BRC-20 tokens, followed by innovative derivatives like ORC-20 and BRC-20 S. These developments provided enhanced functionality and opened new opportunities for the Bitcoin ecosystem.

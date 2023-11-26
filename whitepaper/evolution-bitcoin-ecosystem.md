@@ -1,0 +1,2 @@
+## The Evolution of the Bitcoin Ecosystem
+The Bitcoin ecosystem has evolved significantly since its inception in 2009. This evolution has been marked by the entrance of miners, the emergence of trading platforms, the Lightning Network, RGB, STX, and other innovations. These developments have progressively increased Bitcoin's adoption for payments and raised its profile. However, the real turning point in the ecosystem came with the advent of Ordinals and BRC-20, which reinvigorated the Bitcoin environment with a culture of active building and innovation.
