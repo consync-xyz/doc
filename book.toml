@@ -4,7 +4,7 @@ author = "consync"
 description = "A detailed whitepaper on the Consyn project."
 
 # Define the location of your markdown files
-src = "whitepaper/consyn.md"
+src = "whitepaper/"
 
 # Define build settings
 [build]
